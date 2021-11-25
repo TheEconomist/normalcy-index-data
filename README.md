@@ -29,7 +29,9 @@ The data is contained in [normalcy-index.csv](https://github.com/TheEconomist/no
 This data has been collected, cleaned, analysed and visualised by [James Fransham](https://twitter.com/JamesFransham) and [Martín González](https://twitter.com/martgnz). 
 
 Some additional background to the normalcy index can be found here: 
+
 Graphic detail, July 3rd 2021:  [Back to the future](https://www.economist.com/graphic-detail/2021/07/03/our-normalcy-index-shows-life-is-halfway-back-to-pre-covid-norms)
+
 Off the Charts newsletter, July 6th 2021: [How we are tracking the world’s path to normalcy](https://view.e.economist.com/?qs=2f68a53ec8296b56e18fa0efab0258cca9b50407c741c24de4684ad6218b095ef1b9c14ba27fe71cfeb83ec98b0534b16463c156b294a626ef742b985670805ad01c46d96f5cbd41550735554db94f45)
 
 If you use the data, or have any suggestions, please email [jamesfransham@economist.com](mailto:jamesfransham@economist.com).
