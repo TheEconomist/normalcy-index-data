@@ -4,7 +4,7 @@ This repository contains the data behind *The Economist’s* [global normalcy in
 
 The data covers 50 countries across eight variables, and a population-weighted "world" aggregate of those 50 countries. 
 
-The data is contained in [normalcy-data.csv](https://github.com/TheEconomist/normalcy-index-data/blob/main/normalcy-data.csv)
+The data is contained in [normalcy-index.csv](https://github.com/TheEconomist/normalcy-index-data/blob/main/normalcy-index.csv)
 
 
 ## Data description
@@ -18,7 +18,7 @@ The data is contained in [normalcy-data.csv](https://github.com/TheEconomist/nor
 | traffic           | Congestion levels in three largest cities, population-weighted average          | 0.1111 | TomTom; Wind Data (for China)
 | cinema            | Box office revenues, local currency (weekly data)                               | 0.1111 | Box Office Mojo
 | sports_attendance | Attendance at professional sports events                                        | 0.1111 | Transfermarkt; afltables.com; hockey-reference.com; pro-football-reference.com; 
-| time_outside      | Time spent outside the home, country aggregate                                  | 0.1111 | Google; Economist esimate for China
+| time_outside      | Time spent outside the home, country aggregate                                  | 0.1111 | Google; Economist estimate for China
 | office_occupancy  | Footfall in workplaces of three largest cities, population-weighted average     | 0.1666 | Google; Economist estimate for China
 | retail_footfall   | Footfall in "retail and recreation" sites, country aggregate                    | 0.1666 | Google; Economist estimate for China
 | overall           | Weighted-average of 8 indicators above                                          | 1      | *NA*
@@ -26,7 +26,7 @@ The data is contained in [normalcy-data.csv](https://github.com/TheEconomist/nor
 
 ## Authors
 
-This data has been collected, cleaned, analysed and visalised by [James Fransham](https://twitter.com/JamesFransham) and [Martín González](https://twitter.com/martgnz). 
+This data has been collected, cleaned, analysed and visualised by [James Fransham](https://twitter.com/JamesFransham) and [Martín González](https://twitter.com/martgnz). 
 
 If you use the data, or have any suggestions, please email [jamesfransham@economist.com](mailto:jamesfransham@economist.com).
 
