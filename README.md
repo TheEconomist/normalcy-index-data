@@ -1,10 +1,10 @@
-# *The Economist's* normalcy index data
+# *The Economist's* global normalcy index
 
-This repository contains the data behind *The Economist’s* [Normalcy index tracker](https://www.economist.com/graphic-detail/tracking-the-return-to-normalcy-after-covid-19).
+This repository contains the data behind *The Economist’s* [global normalcy index](https://www.economist.com/graphic-detail/tracking-the-return-to-normalcy-after-covid-19).
 
 The data covers 50 countries across eight variables, and a population-weighted "world" aggregate of those 50 countries. 
 
-The data is contained in normalcy-data.csv
+The data is contained in [normalcy-data.csv](https://github.com/TheEconomist/normalcy-index-data/blob/main/normalcy-data.csv)
 
 
 ## Data description
@@ -22,7 +22,6 @@ The data is contained in normalcy-data.csv
 | office_occupancy  | Footfall in workplaces of three largest cities, population-weighted average     | 0.1666 | Google; Economist estimate for China
 | retail_footfall   | Footfall in "retail and recreation" sites, country aggregate                    | 0.1666 | Google; Economist estimate for China
 | overall           | Weighted-average of 8 indicators above                                          | 1      | *NA*
-|----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 ## Authors
