@@ -11,8 +11,8 @@ The data is contained in [normalcy-index.csv](https://github.com/TheEconomist/no
 
 | Column name       | Description                                                                     | Weight | Source
 | ------------------| ------------------------------------------------------------------------------- | -------|-----------
-| iso3c             | country iso3c code                                                              | *NA*   | *NA*
-| date              | date of data, yyy-mm-dd                                                         | *NA*   | *NA*
+| iso3c             | Country's iso3c code                                                            | *NA*   | *NA*
+| date              | Date of data, yyyy-mm-dd                                                        | *NA*   | *NA*
 | flights           | Flights departing domestic airports                                             | 0.1111 | UN ICAO
 | public_transport  | Footfall in transport hubs of three largest cities, population-weighted average | 0.1111 | Google; Wind Data (for China)
 | traffic           | Congestion levels in three largest cities, population-weighted average          | 0.1111 | TomTom; Wind Data (for China)
@@ -24,9 +24,13 @@ The data is contained in [normalcy-index.csv](https://github.com/TheEconomist/no
 | overall           | Weighted-average of 8 indicators above                                          | 1      | *NA*
 
 
-## Authors
+## Additional information
 
 This data has been collected, cleaned, analysed and visualised by [James Fransham](https://twitter.com/JamesFransham) and [Martín González](https://twitter.com/martgnz). 
+
+Some additional background to the normalcy index can be found here: 
+Graphic detail, July 3rd 2021:  [Back to the future](https://www.economist.com/graphic-detail/2021/07/03/our-normalcy-index-shows-life-is-halfway-back-to-pre-covid-norms)
+Off the Charts newsletter, July 6th 2021: [How we are tracking the world’s path to normalcy](https://view.e.economist.com/?qs=2f68a53ec8296b56e18fa0efab0258cca9b50407c741c24de4684ad6218b095ef1b9c14ba27fe71cfeb83ec98b0534b16463c156b294a626ef742b985670805ad01c46d96f5cbd41550735554db94f45)
 
 If you use the data, or have any suggestions, please email [jamesfransham@economist.com](mailto:jamesfransham@economist.com).
 
