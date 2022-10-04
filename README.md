@@ -6,6 +6,7 @@ The data covers 50 countries across eight variables, and a population-weighted "
 
 The data is contained in [normalcy-index.csv](https://github.com/TheEconomist/normalcy-index-data/blob/main/normalcy-index.csv)
 
+Update, October 4th 2022: this data is no longer being updated on a regular basis. 
 
 ## Data description
 
